@@ -1,3 +1,3 @@
-#Caesar Cipher (with tests)
+# Caesar Cipher (with tests)
 
-*Only supports positive keys
+* Only supports positive keys

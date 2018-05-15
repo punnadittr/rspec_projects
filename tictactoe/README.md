@@ -1,3 +1,3 @@
-#Simple Tic Tac Toe Game (with tests)
+# Simple Tic Tac Toe Game (with tests)
 
-Use 'ruby tictactoe.rb' to run
+* Use 'ruby tictactoe.rb' to run
